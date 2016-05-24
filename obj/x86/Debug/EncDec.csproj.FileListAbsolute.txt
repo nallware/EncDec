@@ -1,0 +1,15 @@
+c:\users\knall\documents\visual studio 2010\Projects\FSE\EncDec\EncDec\bin\Debug\EncDec.exe
+c:\users\knall\documents\visual studio 2010\Projects\FSE\EncDec\EncDec\bin\Debug\EncDec.pdb
+c:\users\knall\documents\visual studio 2010\Projects\FSE\EncDec\EncDec\obj\x86\Debug\EncDec.Form1.resources
+c:\users\knall\documents\visual studio 2010\Projects\FSE\EncDec\EncDec\obj\x86\Debug\EncDec.Properties.Resources.resources
+c:\users\knall\documents\visual studio 2010\Projects\FSE\EncDec\EncDec\obj\x86\Debug\EncDec.csproj.GenerateResource.Cache
+c:\users\knall\documents\visual studio 2010\Projects\FSE\EncDec\EncDec\obj\x86\Debug\EncDec.exe
+c:\users\knall\documents\visual studio 2010\Projects\FSE\EncDec\EncDec\obj\x86\Debug\EncDec.pdb
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\bin\Debug\EncDec.exe
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\bin\Debug\EncDec.pdb
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\obj\x86\Debug\EncDec.Form1.resources
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\obj\x86\Debug\EncDec.Properties.Resources.resources
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\obj\x86\Debug\EncDec.csproj.GenerateResource.Cache
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\obj\x86\Debug\EncDec.exe
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\obj\x86\Debug\EncDec.pdb
+G:\_DEV\RDS\BACKUP\EncDec\EncDec\EncDec\obj\x86\Debug\EncDec.csprojResolveAssemblyReference.cache
